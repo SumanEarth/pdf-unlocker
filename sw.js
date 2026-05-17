@@ -1,4 +1,4 @@
-const CACHE = 'pdf-unlocker-v1';
+const CACHE = 'pdf-unlocker-v2';
 const ASSETS = ['/', '/index.html', '/pdf-lib.min.js', '/icon-192.png', '/icon-512.png', '/manifest.json'];
 
 self.addEventListener('install', e => {
